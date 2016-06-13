@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorNotificationBar">#FF263238</color>
+    <color name="colorTitleBar">#FF37474F</color>
+
+    <color name="colorPrimary">#FF607D8B</color>
+    <color name="colorSecondaryLight">#8990AFAE</color>
+    <color name="colorSecondaryDark">#89455A64</color>
+
+    <color name="colorAccent">#FF64FFDA</color>
+    <color name="colorAccentDarker">#DD64FFDA</color>
+
+    <color name="colorPrimaryText">#DD000000</color>
+    <color name="colorPrimaryHintText">#61000000</color>
+</resources>
