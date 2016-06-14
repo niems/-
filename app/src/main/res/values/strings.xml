@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">  ||  </string>
 
+    <string name="toolbar_main"> || </string>
+
     <!--Add options button on main activity-->
     <string name="add_option_main">Add Option</string>
+
+    <!--Add options strings on the dialogbox-->
+    <string name="add_option_dialog_title">New Option</string>
+    <string name="add_option_dialog"></string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
 </resources>
