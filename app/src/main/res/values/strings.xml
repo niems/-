@@ -5,6 +5,7 @@
 
     <!--Add options button on main activity-->
     <string name="add_option_main">Add Option</string>
+    <string name="decision_main">Choose my path</string>
 
     <!--Add options strings on the dialogbox-->
     <string name="add_option_dialog_title">New Option</string>
