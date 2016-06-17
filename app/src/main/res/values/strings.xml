@@ -4,7 +4,7 @@
     <string name="toolbar_main"> || </string>
 
     <!--Add options button on main activity-->
-    <string name="add_option_main">Add Option</string>
+    <string name="add_option_main">Add a path</string>
     <string name="decision_main">Choose my path</string>
 
     <!--Add options strings on the dialogbox-->

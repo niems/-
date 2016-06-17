@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="colorNotificationBar">#FF000000</color>
+    <color name="colorTitleBar">#FF212121</color>
+
+    <color name="colorPrimary">#FF424242</color>
+    <color name="colorSecondaryLight">#899E9E9E</color>
+    <color name="colorSecondaryDark">#89616161</color>
+
+    <color name="colorAccent">#FFF44336</color>
+    <color name="colorAccentDarker">#DDF44336</color>
+
+    <color name="colorPrimaryText">#DD000000</color>
+    <color name="colorPrimaryHintText">#61000000</color>
+
+    <!--
+    <color name="colorNotificationBar">#FF212121</color>
+    <color name="colorTitleBar">#FF424242</color>
+
+    <color name="colorPrimary">#FF9E9E9E</color>
+    <color name="colorSecondaryLight">#89BDBDBD</color>
+    <color name="colorSecondaryDark">#89757575</color>
+
+    <color name="colorAccent">#FF40C4FF</color>
+    <color name="colorAccentDarker">#DD40C4FF</color>
+
+    <color name="colorPrimaryText">#DD000000</color>
+    <color name="colorPrimaryHintText">#61000000</color>
+    -->
+
+    <!--
     <color name="colorNotificationBar">#FF263238</color>
     <color name="colorTitleBar">#FF37474F</color>
 
@@ -11,6 +40,23 @@
     <color name="colorAccent">#FF64FFDA</color>
     <color name="colorAccentDarker">#DD64FFDA</color>
 
+    <color name="colorPrimaryText">#DDFFFFFF</color>
+    <color name="colorPrimaryHintText">#61FFFFFF</color>
+    -->
+
+    <!--
+    <color name="colorNotificationBar">#FF212121</color>
+    <color name="colorTitleBar">#FF424242</color>
+
+    <color name="colorPrimary">#FF9E9E9E</color>
+    <color name="colorSecondaryLight">#89BDBDBD</color>
+    <color name="colorSecondaryDark">#89757575</color>
+
+    <color name="colorAccent">#FF40C4FF</color>
+    <color name="colorAccentDarker">#DD40C4FF</color>
+
     <color name="colorPrimaryText">#DD000000</color>
     <color name="colorPrimaryHintText">#61000000</color>
+    -->
+
 </resources>

@@ -24,57 +24,30 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"/>
 
-    <Button
-        android:layout_width="match_parent"
+    <ImageButton
+
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:text="@string/add_option_main"
-        />
-
-
-
-    <!--
-     <RelativeLayout
-         xmlns:android="http://schemas.android.com/apk/res/android"
-         xmlns:tools="http://schemas.android.com/tools"
-        android:background="@color/colorPrimary"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-    <Button
-        android:id="@+id/relative_layout_button1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="15dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginStart="5dp"
+        android:src="@drawable/add_symbol"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimaryText"
+        android:onClick="addOption"
         android:background="@drawable/add_option_main"
-        android:text="@string/add_option_dialog"
-        android:textColor="#ffffff"
+
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+
+
         />
-         <Button
-             android:id="@+id/fake_till_make"
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-
-
-             android:background="#00ffffff"
-             android:layout_toRightOf="@id/relative_layout_button1"
-             android:layout_toEndOf="@id/relative_layout_button1"/>
-
-         <Button
-             android:id="@+id/erase_button"
-             android:background="@drawable/add_option_main"
-
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:layout_toRightOf="@id/fake_till_make"
-             android:layout_toEndOf="@id/fake_till_make"/>
-
-
-    </RelativeLayout>
-    -->
 
     <ListView
         android:id="@+id/option_list"
@@ -90,10 +63,12 @@
         android:layout_height="wrap_content"
 
         android:text="@string/decision_main"
+        android:textColor="@color/colorPrimaryText"
         android:textSize="15sp"
         android:padding="15dp"
         android:layout_marginTop="15dp"
         android:layout_marginLeft="5dp"
+        android:layout_marginBottom="10dp"
         android:background="@drawable/add_option_main"
 
         android:layout_gravity="bottom|center_horizontal"
