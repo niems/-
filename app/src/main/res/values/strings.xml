@@ -12,4 +12,7 @@
     <string name="add_option_dialog"></string>
     <string name="dialog_cancel">Cancel</string>
     <string name="dialog_confirm">Confirm</string>
+
+    <!--Toolbar-->
+    <string name="toolbar_erase_all">Erase All Options</string>
 </resources>
